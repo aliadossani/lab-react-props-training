@@ -1,0 +1,12 @@
+.idcard {
+    display: flex;
+    padding: 10px;
+    height: 150px;
+    border: solid 2px black;
+    margin: 10px;
+}
+
+.line-item {
+    margin: 0px;
+    padding: 5px;
+}
